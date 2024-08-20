@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @gideon-simiyu
-- 👀 I’m interested in Full stack web development with MERN stack
+👨‍💻 Computer Science Graduate | 🧠 Machine Learning Enthusiast | 🖥️ Software Engineer
+
+🔧 Skilled in Python, Java, C#, JavaScript/TypeScript, with expertise in Django, React, Flutter, and Tailwind CSS. 
+🚀 Passionate about web and mobile development, focusing on building impactful solutions.
+💼 Currently working on projects ranging from a Travel Blog CMS to an Image Recognition app for plant species.
+🎓 Graduate from Maseno University, class of 2024.
 
 # 💻 Tech Stack:
 ## 🌐 &nbsp; 🛠 &nbsp;Frontend languages, Frameworks and Tools:
