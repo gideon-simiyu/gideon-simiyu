@@ -1,4 +1,4 @@
-# 👨‍💻 Computer Science Graduate | 🧠 Machine Learning Enthusiast | 🖥️ Software Engineer
+## 👨‍💻 Computer Science Graduate | 🧠 Machine Learning Enthusiast | 🖥️ Software Engineer
 
 #### 🔧 Skilled in Python, Java, C#, JavaScript/TypeScript, with expertise in Django, React, Flutter, express and Tailwind CSS. 
 #### 🚀 Passionate about web and mobile development, focusing on building impactful solutions.
